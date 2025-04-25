@@ -8,6 +8,7 @@
 
 - Fetches and displays a list of countries in a responsive table view.
 - Shows detailed information for each selected country.
+- Network Layer
 - Debouncer
 - Built using the **Model-View-ViewModel (MVVM)** design pattern.
 - Includes **unit tests** for business logic and **UI tests** for user interface validation.
