@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/4129fc26-9054-45d3-9fb7-2f2776239891
 - Network Layer
 - Debouncer
 - Built using the **Model-View-ViewModel (MVVM)** design pattern.
-- Includes **unit tests** for business logic and **UI tests** for user interface validation.
+- Includes **unit tests** for business logic.
 
 
 ---
