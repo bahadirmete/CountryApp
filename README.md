@@ -5,17 +5,27 @@
 ---
 ## Demo iPhone
 
-https://github.com/user-attachments/assets/9e0efcbc-92fc-4e29-a608-176cd1faa5a5
+
+
+https://github.com/user-attachments/assets/51f54b6c-521e-40f0-aa36-283e7018f3f2
+
+
 
 ## Demo iPad
 
-https://github.com/user-attachments/assets/17779675-4d56-4b14-b379-79ffdc6cdd01
+
+
+
+https://github.com/user-attachments/assets/4129fc26-9054-45d3-9fb7-2f2776239891
+
 
 
 
 ---
 ## Test Coverage 
-![Screenshot 2025-04-25 at 17 33 51](https://github.com/user-attachments/assets/33a78beb-87bf-45d4-9871-3a74e72e8848)
+![tests](https://github.com/user-attachments/assets/663df9b0-6ce3-4943-9ef3-1c43a1bbfaf6)
+
+
 
 ---
 
